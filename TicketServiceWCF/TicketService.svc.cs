@@ -83,7 +83,7 @@ namespace TicketServiceWCF
             }
             else
             {
-                return false;
+                return true;
             }
         }
 

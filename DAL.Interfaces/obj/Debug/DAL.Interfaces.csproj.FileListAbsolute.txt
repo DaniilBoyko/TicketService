@@ -6,7 +6,6 @@ E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL.Interfaces\obj\Debug\D
 E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL.Interfaces\obj\Debug\DAL.Interfaces.csprojResolveAssemblyReference.cache
 E:\Univer3\Service-oriented systems\TicketService\DAL.Interfaces\bin\Debug\DAL.Interfaces.dll
 E:\Univer3\Service-oriented systems\TicketService\DAL.Interfaces\bin\Debug\DAL.Interfaces.pdb
-E:\Univer3\Service-oriented systems\TicketService\DAL.Interfaces\obj\Debug\DAL.Interfaces.csprojResolveAssemblyReference.cache
 E:\Univer3\Service-oriented systems\TicketService\DAL.Interfaces\obj\Debug\DAL.Interfaces.csproj.CoreCompileInputs.cache
 E:\Univer3\Service-oriented systems\TicketService\DAL.Interfaces\obj\Debug\DAL.Interfaces.dll
 E:\Univer3\Service-oriented systems\TicketService\DAL.Interfaces\obj\Debug\DAL.Interfaces.pdb

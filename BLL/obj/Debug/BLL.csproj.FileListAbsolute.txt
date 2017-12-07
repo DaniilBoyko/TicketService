@@ -8,3 +8,13 @@ E:\Univer3\Service-oriented systems\TIcketServiceLab3\BLL\bin\Debug\BLL.Interfac
 E:\Univer3\Service-oriented systems\TIcketServiceLab3\BLL\bin\Debug\DAL.Interfaces.pdb
 E:\Univer3\Service-oriented systems\TIcketServiceLab3\BLL\obj\Debug\BLL.dll
 E:\Univer3\Service-oriented systems\TIcketServiceLab3\BLL\obj\Debug\BLL.pdb
+E:\Univer3\Service-oriented systems\TicketService\BLL\bin\Debug\BLL.dll
+E:\Univer3\Service-oriented systems\TicketService\BLL\bin\Debug\BLL.pdb
+E:\Univer3\Service-oriented systems\TicketService\BLL\bin\Debug\BLL.Interfaces.dll
+E:\Univer3\Service-oriented systems\TicketService\BLL\bin\Debug\DAL.Interfaces.dll
+E:\Univer3\Service-oriented systems\TicketService\BLL\bin\Debug\BLL.Interfaces.pdb
+E:\Univer3\Service-oriented systems\TicketService\BLL\bin\Debug\DAL.Interfaces.pdb
+E:\Univer3\Service-oriented systems\TicketService\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Univer3\Service-oriented systems\TicketService\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Univer3\Service-oriented systems\TicketService\BLL\obj\Debug\BLL.dll
+E:\Univer3\Service-oriented systems\TicketService\BLL\obj\Debug\BLL.pdb

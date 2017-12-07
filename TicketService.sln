@@ -12,17 +12,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL.Interfaces", "DAL.Interfaces\DAL.Interfaces.csproj", "{4A61AFC7-170F-4489-9D4D-D7DDF205D86D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePL.Tests", "ConsolePL.Tests\ConsolePL.Tests.csproj", "{9122E7E5-3C78-46BE-A104-A041DAB963A8}"
-	ProjectSection(ProjectDependencies) = postProject
-		{55262A2D-BA07-4D05-A157-CE8BBCE4337B} = {55262A2D-BA07-4D05-A157-CE8BBCE4337B}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyResolver", "DependencyResolver\DependencyResolver.csproj", "{29DBA6FA-E79F-4038-9164-14CD822E27C3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORM", "ORM\ORM.csproj", "{9F146201-CE62-44F7-B92D-23E865FA5531}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketService", "TicketService\TicketService.csproj", "{55262A2D-BA07-4D05-A157-CE8BBCE4337B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sdfgsdfgsd", "sdfgsdfgsd\sdfgsdfgsd.csproj", "{E2090B7F-E6AE-43E8-B584-B19D60BDB347}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketServiceWCF", "TicketServiceWCF\TicketServiceWCF.csproj", "{6F16C494-1764-41A3-8CF2-CA4DBE6EEC99}"
 EndProject
@@ -60,14 +53,6 @@ Global
 		{9F146201-CE62-44F7-B92D-23E865FA5531}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F146201-CE62-44F7-B92D-23E865FA5531}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F146201-CE62-44F7-B92D-23E865FA5531}.Release|Any CPU.Build.0 = Release|Any CPU
-		{55262A2D-BA07-4D05-A157-CE8BBCE4337B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{55262A2D-BA07-4D05-A157-CE8BBCE4337B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{55262A2D-BA07-4D05-A157-CE8BBCE4337B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{55262A2D-BA07-4D05-A157-CE8BBCE4337B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E2090B7F-E6AE-43E8-B584-B19D60BDB347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E2090B7F-E6AE-43E8-B584-B19D60BDB347}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E2090B7F-E6AE-43E8-B584-B19D60BDB347}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E2090B7F-E6AE-43E8-B584-B19D60BDB347}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6F16C494-1764-41A3-8CF2-CA4DBE6EEC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6F16C494-1764-41A3-8CF2-CA4DBE6EEC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F16C494-1764-41A3-8CF2-CA4DBE6EEC99}.Release|Any CPU.ActiveCfg = Release|Any CPU

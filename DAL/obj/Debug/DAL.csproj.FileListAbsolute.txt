@@ -1,0 +1,16 @@
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL\bin\Debug\DAL.dll.config
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL\bin\Debug\DAL.dll
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL\bin\Debug\DAL.pdb
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL\bin\Debug\DAL.Interfaces.dll
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL\bin\Debug\EntityFramework.dll
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL\bin\Debug\ORM.dll
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL\bin\Debug\DAL.Interfaces.pdb
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL\bin\Debug\ORM.pdb
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL\bin\Debug\ORM.dll.config
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL\bin\Debug\EntityFramework.xml
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL\obj\Debug\DAL.dll
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\DAL\obj\Debug\DAL.pdb

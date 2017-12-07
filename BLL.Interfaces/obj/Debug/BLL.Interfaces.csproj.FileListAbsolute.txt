@@ -1,0 +1,6 @@
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\BLL.Interfaces\bin\Debug\BLL.Interfaces.dll
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\BLL.Interfaces\bin\Debug\BLL.Interfaces.pdb
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\BLL.Interfaces\obj\Debug\BLL.Interfaces.csproj.CoreCompileInputs.cache
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\BLL.Interfaces\obj\Debug\BLL.Interfaces.dll
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\BLL.Interfaces\obj\Debug\BLL.Interfaces.pdb
+E:\Univer3\Service-oriented systems\TIcketServiceLab3\BLL.Interfaces\obj\Debug\BLL.Interfaces.csprojResolveAssemblyReference.cache

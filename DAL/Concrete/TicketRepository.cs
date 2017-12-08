@@ -39,7 +39,7 @@ namespace DAL.Concrete
         public DalTicket GetById(string id)
         {
             var ormTicket = _context.Set<OrmTicket>().FirstOrDefault(ticket => ticket.Id == id);
-            return ormTicket.ToDalTicket();
+            return ormTicket?.ToDalTicket();
         }
 
         public DalTicket GetByPredicate(Predicate<DalTicket> predicate)

@@ -13,5 +13,22 @@ namespace ORM
         public DateTime TicketTime { get; set; }
 
         public int Cabinet { get; set; }
+
+        public OrmTicket()
+        {
+
+        }
+
+        public OrmTicket(string id, string fioDoctor, string fioPatient, DateTime time, int cabinet)
+        {
+            this.Id = id;
+            this.FioDoctor = fioDoctor;
+            this.FioPatient = fioPatient;
+            this.TicketTime = time;
+            this.Cabinet = cabinet;
+        }
+
     }
+
+
 }

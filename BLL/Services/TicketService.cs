@@ -44,7 +44,7 @@ namespace BLL.Services
 
         public Ticket GetTicketById(string id)
         {
-            return TicketRepository.GetById(id).ToBllTicket();
+            return TicketRepository?.GetById(id)?.ToBllTicket();
         }
 
         public Ticket GetTicketByPredicate(Predicate<Ticket> predicate)

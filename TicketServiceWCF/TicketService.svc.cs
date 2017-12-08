@@ -96,5 +96,10 @@ namespace TicketServiceWCF
             string ip = endpoint.Address;
             return ip;
         }
+
+        public string GetHelloWorld()
+        {
+            return "Hello world!";
+        }
     }
 }

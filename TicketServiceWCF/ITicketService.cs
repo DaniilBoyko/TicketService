@@ -14,6 +14,9 @@ namespace TicketServiceWCF
     public interface ITicketService
     {
         [OperationContract]
+        string GetHelloWorld();
+
+        [OperationContract]
         List<Ticket> GetAllTickets(CheckInfo checkInfo);
 
         [OperationContract]

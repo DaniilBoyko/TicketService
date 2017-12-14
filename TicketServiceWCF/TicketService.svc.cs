@@ -78,7 +78,7 @@ namespace TicketServiceWCF
 
             string result =
                 paymentService.checkPayment(checkInfo.User, checkInfo.Token, GetIP(), agent);
-            if (result.Equals("true"))
+            if (result.Equals(true.ToString()))
             {
                 return true;
             }

@@ -37,6 +37,7 @@ namespace TicketServiceWCF
         [OperationContract]
         List<MyEntity> GetAllAccounts();
 
+        [OperationContract]
         void SetAccount(MyEntity entity);
     }
 }

@@ -59,6 +59,7 @@
       <HintPath>..\packages\Ninject.3.3.4\lib\net45\Ninject.dll</HintPath>
     </Reference>
     <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.ServiceModel" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -107,6 +108,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AccountModel.cs" />
     <Compile Include="CheckInfo.cs" />
     <Compile Include="ITicketService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

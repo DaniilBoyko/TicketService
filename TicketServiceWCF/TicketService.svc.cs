@@ -4,6 +4,7 @@ using DependencyResolver;
 using Ninject;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Runtime.Serialization;
 using System.ServiceModel;
@@ -68,6 +69,19 @@ namespace TicketServiceWCF
                         select t.Name).ToList();
             }
             return null;
+        }
+
+        public List<MyEntity> GetAllAccounts()
+        {
+            DbContext context = new AccountModel();
+            return context.Set<MyEntity>()?.ToList();
+        }
+
+        public void SetAccount(MyEntity entity)
+        {
+            DbContext context = new AccountModel();
+            context.Set<MyEntity>().Add(entity);
+            context.SaveChanges();
         }
 
         private bool CheckClient(CheckInfo checkInfo)

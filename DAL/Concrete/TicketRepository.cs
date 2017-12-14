@@ -26,8 +26,7 @@ namespace DAL.Concrete
 
         public void Delete(DalTicket dalTicket)
         {
-            var ormTicket = dalTicket.ToOrmTicket();
-            ormTicket = _context.Set<OrmTicket>().Single(acc => acc.Id == ormTicket.Id);
+            var ormTicket = _context.Set<OrmTicket>().FirstOrDefault(ticket => ticket.Id == dalTicket.Id);
             _context.Set<OrmTicket>().Remove(ormTicket);
         }
 

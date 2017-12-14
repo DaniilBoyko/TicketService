@@ -31,14 +31,14 @@ namespace ConsolePL.Tests
                     Cabinet = 234,
                 });
                 */
-             /*   ticketsService.AddTicket(new Ticket()
+                ticketsService.AddTicket(new Ticket()
                 {
-                    Id = "12",
+                    Id = "15",
                     FioDoctor = "Piter Culacov",
                     FioPatient = "Fiedor Mixhalkov",
                     TicketTime = new DateTime(2000, 9, 1),
                     Cabinet = 234,
-                });*/
+                });
 
                 foreach (Ticket ticket in ticketsService.GetAllTickets())
                 {

@@ -33,11 +33,5 @@ namespace TicketServiceWCF
 
         [OperationContract]
         List<string> GetNameColumns(CheckInfo checkInfo);
-
-        [OperationContract]
-        List<MyEntity> GetAllAccounts();
-
-        [OperationContract]
-        void SetAccount(MyEntity entity);
     }
 }

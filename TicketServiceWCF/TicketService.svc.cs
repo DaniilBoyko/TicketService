@@ -71,19 +71,6 @@ namespace TicketServiceWCF
             return null;
         }
 
-        public List<MyEntity> GetAllAccounts()
-        {
-            DbContext context = new AccountModel();
-            return context.Set<MyEntity>()?.ToList();
-        }
-
-        public void SetAccount(MyEntity entity)
-        {
-            DbContext context = new AccountModel();
-            context.Set<MyEntity>().Add(entity);
-            context.SaveChanges();
-        }
-
         private bool CheckClient(CheckInfo checkInfo)
         {
             PaymentService.PaymentService paymentService = new PaymentService.PaymentService();
@@ -97,7 +84,7 @@ namespace TicketServiceWCF
             }
             else
             {
-                return true;
+                return false;
             }
         }
 

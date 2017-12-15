@@ -95,7 +95,8 @@ namespace TicketServiceWCF
             RemoteEndpointMessageProperty endpoint =
                prop[RemoteEndpointMessageProperty.Name] as RemoteEndpointMessageProperty;
             string ip = endpoint.Address;
-            return ip;
+            //return ip;
+            return "217.21.43.91";
         }
 
         public string GetHelloWorld()

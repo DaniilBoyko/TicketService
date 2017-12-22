@@ -20,3 +20,13 @@ E:\Univer3\Service-oriented systems\TicketService\ORM\obj\Debug\ORM.csproj.CoreC
 E:\Univer3\Service-oriented systems\TicketService\ORM\obj\Debug\ORM.dll
 E:\Univer3\Service-oriented systems\TicketService\ORM\obj\Debug\ORM.pdb
 E:\Univer3\Service-oriented systems\TicketService\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+E:\Univer3_1\Service-oriented systems\TicketService\ORM\bin\Debug\ORM.dll.config
+E:\Univer3_1\Service-oriented systems\TicketService\ORM\bin\Debug\ORM.dll
+E:\Univer3_1\Service-oriented systems\TicketService\ORM\bin\Debug\ORM.pdb
+E:\Univer3_1\Service-oriented systems\TicketService\ORM\bin\Debug\EntityFramework.dll
+E:\Univer3_1\Service-oriented systems\TicketService\ORM\bin\Debug\EntityFramework.SqlServer.dll
+E:\Univer3_1\Service-oriented systems\TicketService\ORM\bin\Debug\EntityFramework.xml
+E:\Univer3_1\Service-oriented systems\TicketService\ORM\bin\Debug\EntityFramework.SqlServer.xml
+E:\Univer3_1\Service-oriented systems\TicketService\ORM\obj\Debug\ORM.csproj.CoreCompileInputs.cache
+E:\Univer3_1\Service-oriented systems\TicketService\ORM\obj\Debug\ORM.dll
+E:\Univer3_1\Service-oriented systems\TicketService\ORM\obj\Debug\ORM.pdb

@@ -15,4 +15,3 @@ E:\Univer3_1\Service-oriented systems\TicketService\DAL.Interfaces\bin\Debug\DAL
 E:\Univer3_1\Service-oriented systems\TicketService\DAL.Interfaces\obj\Debug\DAL.Interfaces.csproj.CoreCompileInputs.cache
 E:\Univer3_1\Service-oriented systems\TicketService\DAL.Interfaces\obj\Debug\DAL.Interfaces.dll
 E:\Univer3_1\Service-oriented systems\TicketService\DAL.Interfaces\obj\Debug\DAL.Interfaces.pdb
-E:\Univer3_1\Service-oriented systems\TicketService\DAL.Interfaces\obj\Debug\DAL.Interfaces.csprojResolveAssemblyReference.cache

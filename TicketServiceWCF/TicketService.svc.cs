@@ -48,8 +48,17 @@ namespace TicketServiceWCF
                 TicketsService.UpdateTicket(ticket);
         }
 
-        public void AddTicket(Ticket ticket, CheckInfo checkInfo)
+        public void AddTicket(string id, string fioDoctor, string fioPatient, DateTime ticketTime, int cabinet, CheckInfo checkInfo)
         {
+            Ticket ticket = new Ticket()
+            {
+                Id = id,
+                FioDoctor = fioDoctor,
+                FioPatient = fioPatient,
+                TicketTime = ticketTime,
+                Cabinet = cabinet
+            };
+
             if (CheckClient(checkInfo))
                 TicketsService.AddTicket(ticket);
         }

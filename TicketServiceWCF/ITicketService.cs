@@ -26,7 +26,7 @@ namespace TicketServiceWCF
         void UpdateTicket(Ticket ticket, CheckInfo checkInfo);
 
         [OperationContract]
-        void AddTicket(Ticket ticket, CheckInfo checkInfo);
+        void AddTicket(string id, string fioDoctor, string fioPatient, DateTime ticketTime, int cabinet, CheckInfo checkInfo);
 
         [OperationContract]
         Ticket GetTicketById(string id, CheckInfo checkInfo);

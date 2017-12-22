@@ -15,3 +15,4 @@ E:\Univer3_1\Service-oriented systems\TicketService\BLL.Interfaces\bin\Debug\BLL
 E:\Univer3_1\Service-oriented systems\TicketService\BLL.Interfaces\obj\Debug\BLL.Interfaces.csproj.CoreCompileInputs.cache
 E:\Univer3_1\Service-oriented systems\TicketService\BLL.Interfaces\obj\Debug\BLL.Interfaces.dll
 E:\Univer3_1\Service-oriented systems\TicketService\BLL.Interfaces\obj\Debug\BLL.Interfaces.pdb
+E:\Univer3_1\Service-oriented systems\TicketService\BLL.Interfaces\obj\Debug\BLL.Interfaces.csprojResolveAssemblyReference.cache

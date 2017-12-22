@@ -36,10 +36,10 @@ namespace TicketServiceWCF
                 return null;
         }
 
-        public void DeleteTicket(Ticket ticket, CheckInfo checkInfo)
+        public void DeleteTicket(string id, CheckInfo checkInfo)
         {
             if (CheckClient(checkInfo))
-                TicketsService.DeleteTicket(ticket);
+                TicketsService.DeleteTicket(new Ticket{Id = id});
         }
 
         public void UpdateTicket(Ticket ticket, CheckInfo checkInfo)

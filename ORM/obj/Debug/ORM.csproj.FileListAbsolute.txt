@@ -30,3 +30,4 @@ E:\Univer3_1\Service-oriented systems\TicketService\ORM\bin\Debug\EntityFramewor
 E:\Univer3_1\Service-oriented systems\TicketService\ORM\obj\Debug\ORM.csproj.CoreCompileInputs.cache
 E:\Univer3_1\Service-oriented systems\TicketService\ORM\obj\Debug\ORM.dll
 E:\Univer3_1\Service-oriented systems\TicketService\ORM\obj\Debug\ORM.pdb
+E:\Univer3_1\Service-oriented systems\TicketService\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache

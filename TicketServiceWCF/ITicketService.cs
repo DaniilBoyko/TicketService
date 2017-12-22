@@ -20,7 +20,7 @@ namespace TicketServiceWCF
         List<Ticket> GetAllTickets(CheckInfo checkInfo);
 
         [OperationContract]
-        void DeleteTicket(Ticket ticket, CheckInfo checkInfo);
+        void DeleteTicket(string id, CheckInfo checkInfo);
 
         [OperationContract]
         void UpdateTicket(Ticket ticket, CheckInfo checkInfo);
